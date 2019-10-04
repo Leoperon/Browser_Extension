@@ -1,0 +1,6 @@
+{"manifest_version": 2,
+    "name": "Browser_Extension",
+    "version": "0.1.0",
+    "description": "An example of Browser Extension",
+    "author": "Leoperon"
+}
